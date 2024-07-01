@@ -1,7 +1,6 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Hindi translation for boxbuddyrs
+# Copyright (C) 2024 boxbuddyrs's COPYRIGHT HOLDER
+# This file is distributed under the same license as the boxbuddyrs package.
 # Scrambled777 <weblate.scrambled777@simplelogin.com>, 2024.
 #
 msgid ""
